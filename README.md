@@ -1,1 +1,1 @@
-# notodavia
+# ExplotarGlobos2-plantilla
